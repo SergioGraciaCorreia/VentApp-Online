@@ -5,7 +5,7 @@ This is a Java project developed to manage sales and inventory. It includes feat
 ---
 
 ## 🚀 Project Structure
-- proyecto-final-java/
+- VentApp-Online/
 - ├── 📁 lib/ # External libraries
 - ├── 📁 src/ # Source code
 - ├── 📄 build.xml # Apache Ant configuration file
