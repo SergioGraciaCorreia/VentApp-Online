@@ -1,7 +1,7 @@
 
 # 🛒 VentApp Online Project
 
-![ventapponlinepng](https://github.com/user-attachments/assets/22fb7351-49eb-4dfd-810a-7fb757b6dd7a)
+<img src="https://github.com/user-attachments/assets/22fb7351-49eb-4dfd-810a-7fb757b6dd7a" alt="VentApp Online" width="700" />
 
 This is a Java project developed to manage sales and inventory. It includes features such as:
 - **PDF invoice generation**.
