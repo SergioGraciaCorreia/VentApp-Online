@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="TiendaBDExe" default="default" basedir=".">
+    <description>Builds, tests, and runs the project TiendaBDExe.</description>
+    <!-- Importación del archivo de construcción predeterminado de NetBeans -->
+    <import file="nbproject/build-impl.xml"/>
+    
+    <!-- Aquí se han comentado las personalizaciones para el Fat JAR. Solo se generará el JAR normal -->
+    <!--
+    <target name="-post-jar">
+        <jar destfile="${dist.jar}" update="true">
+            <zipgroupfileset dir="${basedir}/lib" includes="*.jar"/>
+            <manifest>
+                <attribute name="Main-Class" value="ventappOnline.PantallaInicio"/>
+            </manifest>
+        </jar>
+    </target>
+    -->
+    
+</project>
+
