@@ -1,6 +1,10 @@
 # 🛒 VentApp Online Project
 
-This is a Java project developed to manage sales and inventory. It includes features such as PDF invoice generation and connection to a MySQL database.
+This is a Java project developed to manage sales and inventory. It includes features such as:
+- **PDF invoice generation**.
+- **Connection to a MySQL database**.
+- **External API integration for real-time currency conversion**.
+
 
 ---
 
